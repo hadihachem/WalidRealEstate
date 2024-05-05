@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/WalidRealEstate/static/css/main.13bc3b0d.css",
-    "main.js": "/WalidRealEstate/static/js/main.36c61052.js",
+    "main.js": "/WalidRealEstate/static/js/main.deaaa98f.js",
     "static/media/img1.jpg": "/WalidRealEstate/static/media/img1.65099aa55e2a7dcb78a1.jpg",
     "static/media/swiperImg3.jpg": "/WalidRealEstate/static/media/swiperImg3.bc85a0e2613e0506895e.jpg",
     "static/media/swiperImg1.jpg": "/WalidRealEstate/static/media/swiperImg1.b73b55713b768b6c11ef.jpg",
@@ -67,10 +67,10 @@
     "static/media/sale10.5.jpg": "/WalidRealEstate/static/media/sale10.5.a06ba9eb6a222c9a59bc.jpg",
     "index.html": "/WalidRealEstate/index.html",
     "main.13bc3b0d.css.map": "/WalidRealEstate/static/css/main.13bc3b0d.css.map",
-    "main.36c61052.js.map": "/WalidRealEstate/static/js/main.36c61052.js.map"
+    "main.deaaa98f.js.map": "/WalidRealEstate/static/js/main.deaaa98f.js.map"
   },
   "entrypoints": [
     "static/css/main.13bc3b0d.css",
-    "static/js/main.36c61052.js"
+    "static/js/main.deaaa98f.js"
   ]
 }
